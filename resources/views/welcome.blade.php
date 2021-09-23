@@ -36,8 +36,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">22s11212</div>
-                <div>dd</div>
+                <div class="title">hello laravel</div>
+
             </div>
         </div>
     </body>
